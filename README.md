@@ -16,14 +16,9 @@ The project replicates the basic layout and design of the Udemy homepage.
 - CSS
 
 ## How to View
-
+You can access my simple udemy clone website by[live link]  https://arunkumard4693-sys.github.io/Simple-Udemy-Clone/
 
 ## Purpose
-This project is created for educational purposes to practice front-end web development skills.
+This project was created as part of my learning journey in front-end web development.
 
-## Thank You
-Thank you for visiting this project!  
-Your feedback and suggestions are always welcome.
-
-## Author
-Arunkumar
+Thank You! for visting this website.
